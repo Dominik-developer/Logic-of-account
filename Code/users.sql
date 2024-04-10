@@ -17,3 +17,4 @@ CREATE TABLE IF NOT EXISTS Users (
     RegistrationDate TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
+--made by: Dominik Szczepański https://github.com/Dominik-developer 
