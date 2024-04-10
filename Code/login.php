@@ -31,7 +31,11 @@
         <input type="submit" value="Log in">
         <br><br>
     </form>
- 
+
+<?php
+
+?>
+    
         <a href="index.php" >Back to main file </a>
 </main>
             
