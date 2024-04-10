@@ -1,6 +1,6 @@
 # Logic-of-account
 
-#Project in progress, I will upload the rest of the files by the end of April
+# Project in progress, I will upload the rest of the files by the end of April
 
 Simple log in/sign in program in PHP design for XAMPP localhost.
 <br>
