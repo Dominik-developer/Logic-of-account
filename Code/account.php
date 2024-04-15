@@ -5,12 +5,11 @@
 session_start();
 
 require_once "connect.php";
-/*
 if(isset($_SESSION['Logged']))
 {
     header('Location:login.php');
     exit();
-}*/
+}
 
 ?>
 
@@ -56,7 +55,7 @@ if(isset($_SESSION['Logged']))
 <body>
     
 <header>
-    Welcome at account <?php  $Username; ?> !
+    Welcome at account <?php  echo $_SESSION["Username"]; ?> !
 </header>   
 
 <main>
